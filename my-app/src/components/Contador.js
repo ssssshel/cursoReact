@@ -1,5 +1,7 @@
 import React, {useState, Fragment} from 'react';
 
+// FUNDAMENTOS BASE
+
 const Contador = () => {
 
   const [numero, setNumero] = useState(0);

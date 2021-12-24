@@ -1,5 +1,7 @@
 import React, {useState, Fragment} from 'react';
 
+// RECORRIDO DE ARRAYS
+
 const Lista = () => {
 
   const [arrayNumero, setArrayNumero] = useState([1, 2, 3, 4, 5])
@@ -13,7 +15,7 @@ const Lista = () => {
       numero
     ])
   }
-
+  
   return ( 
     <Fragment>
       <h2>Lista</h2>

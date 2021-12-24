@@ -1,5 +1,7 @@
 import React, {Fragment} from 'react';
 
+// JSX
+
 const Jsx = () => {
 
   const Temperatura = 21;
