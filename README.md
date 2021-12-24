@@ -133,3 +133,6 @@ const Saludo = (props) => {
    );
 }
 ~~~
+
+
+- Ojito: En React en lugar de class se usa el atributo className
